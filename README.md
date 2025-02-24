@@ -30,6 +30,7 @@ Signed,
 - Ashe Connor, @kivikakk (ex-GitHub)
 - Marc Cornellà, @mcornella (Oh My Zsh)
 - Matt Cowley, @MattIPv4 (cdnjs)
+- James David Clarke, @JamesClarke7283 (Founder of Novora, freedom software contributor)
 - Kushal Das, @kushaldas (Public Interest Technologist, Freedom of the Press Foundation)
 - Chris Dickinson, @chrisdickinson (Entropic)
 - Buck Doyle, @backspace (Nomad contributor)
